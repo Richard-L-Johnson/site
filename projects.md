@@ -7,7 +7,8 @@ Projects that I have been involved with:
 
 
 Text A Trainer
-An automated service for cleints and trainers to communicate via messaging. 
+
+An automated service for clients and trainers to communicate via messaging. 
 
 <center>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aDGeGjCEnGs" frameborder="0" allowfullscreen></iframe>
@@ -15,6 +16,7 @@ An automated service for cleints and trainers to communicate via messaging.
 
 
 Endomath
+
 A health and wellness platform connecting clients and lab testing. 
 
 <center>
