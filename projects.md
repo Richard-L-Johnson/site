@@ -6,6 +6,8 @@ title: "Projects"
 Projects that I have been involved with: 
 
 
+
+
 Text A Trainer 
 
 An automated service for clients and trainers to communicate via messaging. 
