@@ -6,7 +6,7 @@ title: "Projects"
 Projects that I have been involved with: 
 
 
-Text A Trainer - 
+Text A Trainer 
 
 An automated service for clients and trainers to communicate via messaging. 
 
@@ -15,7 +15,7 @@ An automated service for clients and trainers to communicate via messaging.
 </center>
 
 
-Endomath - 
+Endomath  
 
 A health and wellness platform connecting clients and lab testing. 
 
