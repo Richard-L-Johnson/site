@@ -9,7 +9,7 @@ author: "RLJ"
   <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/6f08ea5a-e2d8-44ce-8dad-11fc8e296ba9.jpg"/>
 </center></figure>
 
-On Fasting <br>
+# On Fasting <br>
 
   Through the writings and mental models developed by the likes of Benjamin Franklin, Charlie Munger, and Daniel Kahneman 
 I would like to posit on the principles of fasting. I will approach this thesis with a multidisciplinary approach to answer 
@@ -40,7 +40,7 @@ a simple subject like fasting with a multidisciplinary approach will allow you 1
 2) show overlaps in the disciplines that can be leveraged for better adherence 3) to better construct a fasting protocol 
 suited for you.
 
-Biology: Hormesis, Autophagy, Encoded DNA
+# Biology: Hormesis, Autophagy, Encoded DNA
 
   In regard to biology I would like to initially address the principle of hormesis. Plainly speaking hormesis is the body’s 
 ability to endure short intense bouts of pain or restriction for longer term endurance or defense. A flu vaccination is an 
@@ -70,7 +70,7 @@ an impact on your overall health and could either aid or hinder your ability to 
 your job, eating poorly, and living in a poor air quality environment it will be much harder for you to start, adhere to, 
 and maintain a fasting regimen.
 
-Economics: Game Theory, Opportunity Costs, Incentives
+# Economics: Game Theory, Opportunity Costs, Incentives
 
   When applying game theory to fasting one needs to be aware of the factors within the game, mainly actors, rules, and 
 competitors. Eating or not eating is not a one play game, it is an infinite game you play throughout your life. What you 
@@ -90,7 +90,7 @@ Food is now readily accessible and often times cheap. There is also engineering 
 Bear these in mind when considering what to eat, when to eat, and how much to eat. Ask the questions of why are things 
 structured this way? Who wins, who loses? What are the long-term impacts on my health and longevity?
 
-Psychology: Operant Conditioning, Pavlovian Responses, Social Proof
+# Psychology: Operant Conditioning, Pavlovian Responses, Social Proof
 
   The psychological component involved in fasting, or any habit formation, is both the most important aspect and the least 
 understood. Operant conditioning is an act followed by a consequence that will then influence the performance of the act in 
@@ -112,7 +112,7 @@ Social proof is a social phenomenon wherein people mimic the actions and decisio
 situations. Think of social proof as because John is doing fasting I will too. It is a signal that the behavior is warranted 
 because a peer or idol is behaving in such a way.
 
-History: Culture, Religion, and Trends
+# History: Culture, Religion, and Trends
 
   Fasting has been a part of life for our species from the days of the savannah to modernity. Fasting has gone by many 
 names and has been practiced in various fashions throughout time. Many readers may have first been exposed to fasting 
