@@ -9,16 +9,16 @@ This is a view of what I am currently reading, what I have read in the past, and
 
 # Reading
 
-[Three Body Problem](https://amzn.to/2Y9ws5A) 
+*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A) 
 
 
 # Read
 
-[The Lessons of History](https://amzn.to/2H9j8bu) 
+*Will Durant*, [The Lessons of History](https://amzn.to/2H9j8bu) 
 
 # Top Recommendations
 
-[The Prince](https://amzn.to/2Y9ws5A) 
+*Nicolo Machiavelli*, [The Prince](https://amzn.to/2Y9ws5A) 
 
 
 
