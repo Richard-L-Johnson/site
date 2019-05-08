@@ -136,7 +136,7 @@ a divergent and healthier path than most of us are currently on. It starts with 
 habit, creating personal skin in the game, and holding yourself accountable to not failing. Write it down, tell a friend, 
 put some money on the line, and avoid anyone and anything that may get in your way to establishing the habit of fasting.
 
-“Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with 
+*“Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with 
 coarse and rough dress, saying to yourself the while: ‘Is this the condition that I feared?’ … It is precisely in 
 times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress, and it is 
-while Fortune is kind that it should fortify itself against her violence.” - Seneca
+while Fortune is kind that it should fortify itself against her violence.” - Seneca*
