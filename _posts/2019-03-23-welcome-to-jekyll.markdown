@@ -2,10 +2,10 @@
 layout: post
 title:  "Note 1"
 date:   2019-03-23 14:36:45 -0700
-categories: jekyll update
+categories: Notes
 author: "RLJ"
 ---
-Three Tenets To Life <br>
+# Three Tenets To Life <br>
 
 Health, Wealth, and Wisdom. These three tenets have been discussed throughout history by Socrates, Plato, Aristotle, Seneca, and Benjamin Franklin to name a few. Many of these men have suggested applying first principles thinking to decision making throughout life. I am a believer in this as well, that is why clearly defining what meaning words have to you personally is a splendid place to start. But how do we take the metaphysical and apply it pragmatically to our daily lives?
 
