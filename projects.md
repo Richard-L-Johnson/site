@@ -3,12 +3,12 @@ layout: "page"
 title: "Projects"
 ---
 
-#Projects that I have been involved with: 
+# Projects that I have been involved with: 
 
 
 
 
-#Text A Trainer 
+# Text A Trainer 
 
 *An automated service for clients and trainers to communicate via messaging.* 
 
@@ -17,7 +17,7 @@ title: "Projects"
 </center>
 
 
-#Endomath  
+# Endomath  
 
 *A health and wellness platform connecting clients and lab testing.* 
 
@@ -26,7 +26,7 @@ title: "Projects"
 </center>
 
 
-#YWE Ventures
+# YWE Ventures
 
 *YWE Ventures was established in 2015 as a hybrid human performance, blockchain, & crypto technology fund that makes investments in promising technologies and businesses.
 
