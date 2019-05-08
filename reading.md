@@ -23,6 +23,9 @@ This is a view of what I am currently reading, what I have read in the past, and
 
 
 ![Image](https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/60ff21be-ce05-4d5d-83c8-6d8f15ffcdea.jpg)
+
 *Trajan’s Forum*
+
+
 
 *This list is compiled from a lifetime of reading.*
