@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: "Reading"
+---
+
 #Reading, Read, Recommendations
 
 This is a view of what I am currently reading, what I have read in the past, and top recommendations. 
