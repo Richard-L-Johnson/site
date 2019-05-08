@@ -18,7 +18,7 @@ This is a view of what I am currently reading, what I have read in the past, and
 
 # Top Recommendations
 
-*Nicolo Machiavelli*, [The Prince](https://amzn.to/2Y9ws5A) 
+*Niccolo Machiavelli*, [The Prince](https://amzn.to/2Y9ws5A) 
 
 
 
