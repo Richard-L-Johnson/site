@@ -10,12 +10,8 @@ author: "RLJ"
 
 
 <figure><center>
-  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/3e52d459-7dd9-4e70-82a8-e23dcd5c2ab9.jpg"*Dionysius the Areopagite*/>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/3e52d459-7dd9-4e70-82a8-e23dcd5c2ab9.jpg"/>
 </center></figure>
-
-
-  
-
 
 
 
@@ -26,3 +22,4 @@ author: "RLJ"
   Thus, often times it is more effective to completely remove harmful variables from ones life than to add in variables to increase health, increase wealth, and increase wisdom. We are living in a time of abundance in many parts of the world, one no longer need worry about going hungry, rather, one need worry about the detriment of excessive diet, credit, and information. Subtraction of needless things in ones life can have profound benefits on overall well-being, creation of a self discipined life allows one the freedom to achieve the uncommon. 
 
 
+*Dionysius the Areopagite*
