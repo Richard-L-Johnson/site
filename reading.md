@@ -18,7 +18,7 @@ This is a view of what I am currently reading, what I have read in the past, and
 
 *Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
 
-*George Soros*,The Alchemy of Finance
+*George Soros*, The Alchemy of Finance
 
 *Aleksandr Solzhenitsyn*, In the First Cirle
 
