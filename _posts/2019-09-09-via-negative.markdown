@@ -8,7 +8,7 @@ author: "RLJ"
 <figure><center>
   <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/3e52d459-7dd9-4e70-82a8-e23dcd5c2ab9.jpg"/>
 </center></figure>
-*Dionysius the Areopagite*
+Dionysius the Areopagite
 
 # Via Negativa <br>
 
