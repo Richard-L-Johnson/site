@@ -9,7 +9,7 @@ This is a view of what I am currently reading, what I have read in the past, and
 
 # Reading
 
-*Friedrich Nietzsche*, [On the Genealogy of Morals and Ecce Home] 
+*Friedrich Nietzsche*, On the Genealogy of Morals and Ecce Home
 
 
 # Read
@@ -18,24 +18,28 @@ This is a view of what I am currently reading, what I have read in the past, and
 
 *Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*George Soros*,The Alchemy of Finance
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*Aleksandr Solzhenitsyn*, In the First Cirle
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*Ludwig Wittgenstein*, Tractatus Logico Philosophicus
+
+*C.G. Jung*, Memories, Dreams, Reflections
 
 
-# Top Recommendations
+# Recommendations
 
 *Niccolo Machiavelli*, [The Prince](https://amzn.to/2Y9ws5A)
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*Plato*, The Republic
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*Hermann Hesse*, Siddhartha
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*Nassim Taleb*, Antifragile
 
-*Cixin Liu*, [Three Body Problem](https://amzn.to/2Y9ws5A)
+*Benjamin Franklin*, The Autobiography of Benjamin Franklin
+
+*Robert M. Persing*, Zen and the Art of Motorcycle Maintenance
 
 
 
