@@ -10,10 +10,13 @@ author: "RLJ"
 
 
 <figure><center>
-  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/3e52d459-7dd9-4e70-82a8-e23dcd5c2ab9.jpg"/>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/3e52d459-7dd9-4e70-82a8-e23dcd5c2ab9.jpg"*Dionysius the Areopagite*/>
 </center></figure>
-<text><center>
-Dionysius the Areopagite
+
+
+  
+
+
 
 
   Is one able to subtract things from ones life to become healthier, wealthier, and wiser? Can one live with less technology, less opulence, and less sustenance?
