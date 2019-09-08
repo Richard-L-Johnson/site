@@ -6,7 +6,7 @@ categories: Notes
 author: "RLJ"
 ---
 
-# Via Negativa <br>
+# Via Negativa. <br>
 
 
 <figure><center>
