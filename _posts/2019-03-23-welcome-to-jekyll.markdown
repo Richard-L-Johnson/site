@@ -5,9 +5,11 @@ date:   2019-03-23 14:36:45 -0700
 categories: Notes
 author: "RLJ"
 ---
-# Three Tenets To Life <br>
+# Three Tenets To Life. <br>
 
-Health, Wealth, and Wisdom. These three tenets have been discussed throughout history by Socrates, Plato, Aristotle, Seneca, and Benjamin Franklin to name a few. Many of these men have suggested applying first principles thinking to decision making throughout life. I am a believer in this as well, that is why clearly defining what meaning words have to you personally is a splendid place to start. But how do we take the metaphysical and apply it pragmatically to our daily lives?
+Health, Wealth, and Wisdom. These three tenets have been discussed throughout history by Socrates, Plato, Aristotle, Seneca, and Benjamin Franklin, just to name a few. Many of these men have suggested applying a first principles approach when making decisions throughout ones life. One should consider the material cause (what is it composed of), the formal cause (the arranangement of the matter), the efficeint cause (the agent or primary source), and the final cause of things (telos, purpose). 
+
+I am a believer in this as well, that is why clearly defining the objective is a splendid place to start. But how do we take the metaphysical and apply it pragmatically to our daily lives?
 
 Health: Strength and vitality — the ability to move fluidly through daily life and have the energy to complete all tasks. Strength is health.
 
