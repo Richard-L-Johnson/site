@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Note 4"
+date:   2017-12-12 14:36:45 -0700
+categories: Notes
+author: "RLJ"
+---
+# Crypto Stimulus. <br>
+
 <figure><center>
   <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/0b852f8b-ba42-478c-81e3-ea0052ae1afd.jpg"/>
 </center></figure>
